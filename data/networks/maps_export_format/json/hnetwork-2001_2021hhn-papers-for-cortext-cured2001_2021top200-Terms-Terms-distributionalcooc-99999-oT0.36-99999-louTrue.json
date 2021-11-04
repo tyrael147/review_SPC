@@ -1,0 +1,382 @@
+{
+    "nodes": {
+        "1": {
+            "category": "Terms & Terms",
+            "index": 0,
+            "b": 155,
+            "width_prob": 86804.89829293828,
+            "g": 238,
+            "weight": 58.466305543973874,
+            "level": "high",
+            "color": [
+                0.8384467512495197,
+                0.9349480968858133,
+                0.6089965397923875,
+                1.0
+            ],
+            "widthp": 86804.89829293828,
+            "density": 0.9805889415718666,
+            "period": "2001_2021",
+            "label": "environmental impacts & climate change",
+            "width": 1657,
+            "shape": "o",
+            "univ_index": 2,
+            "a": 1,
+            "y": 0.20721625428310506,
+            "x": 0.08814156962817488,
+            "r": 213,
+            "size": 2.06959763635077
+        },
+        "2": {
+            "category": "Terms & Terms",
+            "index": 5,
+            "b": 75,
+            "width_prob": 32732.62457137339,
+            "g": 73,
+            "weight": 22.046631780937076,
+            "level": "high",
+            "color": [
+                0.8662821991541715,
+                0.2901191849288735,
+                0.2978085351787774,
+                1.0
+            ],
+            "widthp": 32732.62457137339,
+            "density": 0.9440090118406049,
+            "period": "2001_2021",
+            "label": "supplier evaluation & decision making",
+            "width": 561,
+            "shape": "o",
+            "univ_index": 5,
+            "a": 1,
+            "y": 0.5669473163780694,
+            "x": 0.26736731512484535,
+            "r": 220,
+            "size": 2.06959763635077
+        },
+        "3": {
+            "category": "Terms & Terms",
+            "index": 2,
+            "b": 183,
+            "width_prob": 174096.4577617887,
+            "g": 148,
+            "weight": 117.26039536702436,
+            "level": "high",
+            "color": [
+                0.24006151480199925,
+                0.58239138792772,
+                0.7208765859284891,
+                1.0
+            ],
+            "widthp": 174096.4577617887,
+            "density": 0.9719984909535717,
+            "period": "2001_2021",
+            "label": "chain management & Research limitations/implications",
+            "width": 3393,
+            "shape": "o",
+            "univ_index": 4,
+            "a": 1,
+            "y": 0.30481453727615615,
+            "x": 0.5715244615871945,
+            "r": 61,
+            "size": 2.06959763635077
+        },
+        "4": {
+            "category": "Terms & Terms",
+            "index": 6,
+            "b": 82,
+            "width_prob": 1838.0003776609806,
+            "g": 142,
+            "weight": 1.2379611494690088,
+            "level": "high",
+            "color": [
+                0.9748558246828143,
+                0.5574009996155325,
+                0.32272202998846594,
+                1.0
+            ],
+            "widthp": 1838.0003776609806,
+            "density": 0.8740859486944558,
+            "period": "2001_2021",
+            "label": "logistics service & service providers",
+            "width": 53,
+            "shape": "o",
+            "univ_index": 0,
+            "a": 1,
+            "y": 0.44913683852187336,
+            "x": 0.9428449569455007,
+            "r": 248,
+            "size": 2.06959763635077
+        },
+        "5": {
+            "category": "Terms & Terms",
+            "index": 4,
+            "b": 190,
+            "width_prob": 4785.474043230154,
+            "g": 254,
+            "weight": 3.2231935419134237,
+            "level": "high",
+            "color": [
+                0.998077662437524,
+                0.9992310649750096,
+                0.7460207612456747,
+                1.0
+            ],
+            "widthp": 4785.474043230154,
+            "density": 0.8906551261799962,
+            "period": "2001_2021",
+            "label": "product design & product development",
+            "width": 133,
+            "shape": "o",
+            "univ_index": 6,
+            "a": 1,
+            "y": 0.05306360161849565,
+            "x": 0.840816144026644,
+            "r": 254,
+            "size": 2.06959763635077
+        },
+        "6": {
+            "category": "Terms & Terms",
+            "index": 1,
+            "b": 164,
+            "width_prob": 124462.06278120744,
+            "g": 206,
+            "weight": 83.82979686978466,
+            "level": "high",
+            "color": [
+                0.5273356401384084,
+                0.8106113033448674,
+                0.6452133794694349,
+                1.0
+            ],
+            "widthp": 124462.06278120744,
+            "density": 0.9895570483865568,
+            "period": "2001_2021",
+            "label": "proposed model & total cost",
+            "width": 2206,
+            "shape": "o",
+            "univ_index": 1,
+            "a": 1,
+            "y": 0.8460002498960516,
+            "x": 0.1394279811897533,
+            "r": 134,
+            "size": 2.06959763635077
+        },
+        "7": {
+            "category": "Terms & Terms",
+            "index": 3,
+            "b": 129,
+            "width_prob": 20690.351079886685,
+            "g": 212,
+            "weight": 13.935715746897602,
+            "level": "high",
+            "color": [
+                0.9951557093425606,
+                0.8322952710495963,
+                0.5063437139561706,
+                1.0
+            ],
+            "widthp": 20690.351079886685,
+            "density": 0.6891154814397833,
+            "period": "2001_2021",
+            "label": "mitigation strategies & chain risk",
+            "width": 439,
+            "shape": "o",
+            "univ_index": 3,
+            "a": 1,
+            "y": 0.5903168745052356,
+            "x": 0.5101738984029865,
+            "r": 253,
+            "size": 2.06959763635077
+        }
+    },
+    "meta": {
+        "period": "2001_2021",
+        "method": {
+            "overl_size": false,
+            "computeoptimaldistancethres": true,
+            "dist": "distributional",
+            "het_typ": true,
+            "field2": "Terms",
+            "CDM": "louvain",
+            "nb_per": "1",
+            "field1": "Terms",
+            "k_nearest": 99999,
+            "top_node": 200,
+            "distance_mode": "cooc",
+            "no_orphan": false,
+            "time_sp": "homogeneous",
+            "norm": "norm",
+            "top_edges": 99999,
+            "int-thres": 0.27,
+            "d_thres": 0.1,
+            "period_size": null,
+            "orph": "False"
+        },
+        "title": "hhn-papers-for-cortext-cured2001_2021top200-Terms-Terms-distributionalcooc-99999-oT0.36-99999-louTrue"
+    },
+    "edges": {
+        "1": {
+            "dest": 1,
+            "source": 1,
+            "weight": 10.330734506654007,
+            "level": "high"
+        },
+        "2": {
+            "dest": 6,
+            "source": 1,
+            "weight": 0.6904624867236981,
+            "level": "high"
+        },
+        "3": {
+            "dest": 3,
+            "source": 1,
+            "weight": 0.4364101253470616,
+            "level": "high"
+        },
+        "4": {
+            "dest": 2,
+            "source": 2,
+            "weight": 7.912020361325374,
+            "level": "high"
+        },
+        "5": {
+            "dest": 6,
+            "source": 2,
+            "weight": 0.24326128984938356,
+            "level": "high"
+        },
+        "6": {
+            "dest": 7,
+            "source": 2,
+            "weight": 0.451361924006603,
+            "level": "high"
+        },
+        "7": {
+            "dest": 3,
+            "source": 2,
+            "weight": 1.2086887952393752,
+            "level": "high"
+        },
+        "8": {
+            "dest": 1,
+            "source": 3,
+            "weight": 0.4364101253470616,
+            "level": "high"
+        },
+        "9": {
+            "dest": 2,
+            "source": 3,
+            "weight": 1.2086887952393752,
+            "level": "high"
+        },
+        "10": {
+            "dest": 3,
+            "source": 3,
+            "weight": 8.25400492544015,
+            "level": "high"
+        },
+        "11": {
+            "dest": 4,
+            "source": 3,
+            "weight": 0.21723152917034533,
+            "level": "high"
+        },
+        "12": {
+            "dest": 5,
+            "source": 3,
+            "weight": 0.2504100312210238,
+            "level": "high"
+        },
+        "13": {
+            "dest": 6,
+            "source": 3,
+            "weight": 0.2237601363870897,
+            "level": "high"
+        },
+        "14": {
+            "dest": 7,
+            "source": 3,
+            "weight": 0.23772485162825077,
+            "level": "high"
+        },
+        "15": {
+            "dest": 4,
+            "source": 4,
+            "weight": 0.7540025330471114,
+            "level": "high"
+        },
+        "16": {
+            "dest": 3,
+            "source": 4,
+            "weight": 0.21723152917034533,
+            "level": "high"
+        },
+        "17": {
+            "dest": 5,
+            "source": 5,
+            "weight": 1.9197061381258778,
+            "level": "high"
+        },
+        "18": {
+            "dest": 3,
+            "source": 5,
+            "weight": 0.2504100312210238,
+            "level": "high"
+        },
+        "19": {
+            "dest": 1,
+            "source": 6,
+            "weight": 0.6904624867236981,
+            "level": "high"
+        },
+        "20": {
+            "dest": 2,
+            "source": 6,
+            "weight": 0.24326128984938356,
+            "level": "high"
+        },
+        "21": {
+            "dest": 6,
+            "source": 6,
+            "weight": 31.65429403359165,
+            "level": "high"
+        },
+        "22": {
+            "dest": 7,
+            "source": 6,
+            "weight": 0.24517733517847062,
+            "level": "high"
+        },
+        "23": {
+            "dest": 3,
+            "source": 6,
+            "weight": 0.2237601363870897,
+            "level": "high"
+        },
+        "24": {
+            "dest": 2,
+            "source": 7,
+            "weight": 0.451361924006603,
+            "level": "high"
+        },
+        "25": {
+            "dest": 6,
+            "source": 7,
+            "weight": 0.24517733517847062,
+            "level": "high"
+        },
+        "26": {
+            "dest": 7,
+            "source": 7,
+            "weight": 1.505296500024825,
+            "level": "high"
+        },
+        "27": {
+            "dest": 3,
+            "source": 7,
+            "weight": 0.23772485162825077,
+            "level": "high"
+        }
+    }
+}
